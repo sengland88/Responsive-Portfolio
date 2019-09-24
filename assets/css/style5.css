@@ -1,0 +1,297 @@
+/* Responsiveness 640px */
+
+@media screen and (max-width: 640px) {
+    body {font-size: 18px;
+    line-height: 28px;}
+
+    header {
+        display: flex;
+        height: auto;
+        width: 100%;}
+
+    h1 {
+        font-size: 32px;
+        height: auto;
+        width: 100%;
+        margin-left: 15px;
+        padding-left: 0;
+        color: #4aaaa5;
+        background-color: white;
+        text-align: left;
+
+    }
+
+    h2 {
+        display: block;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    h3 {
+        display: block;
+    }
+    
+    nav {
+        display: inline-flex;
+        float: left;   
+        margin: 0;
+        
+    }
+
+    nav ul {
+        text-align: center;
+    }
+
+    nav li {
+        margin: 5px;
+        font-size: 18px;
+        text-align: center; 
+        padding-bottom: 0;
+        margin-bottom: 0;
+        padding-top: 15px;
+        margin-top: 0;
+        margin-left: 0;      
+    }
+
+
+    #image {
+        width: 250px;
+        height: 250px;
+    }
+
+    #social {
+        display: inline-flex;
+        text-align: unset;
+        padding: 0;
+        margin-bottom: 10px;
+        float: right;
+    }
+
+    #button {
+        width: 115px;
+        height: 21px;
+    }
+
+    #icons {
+        padding-left: 0;
+        padding-right: 50px;
+    }
+    
+
+    table, tr, th {
+        display: grid;
+        font-size: 18px;
+        margin: 0;
+        padding: 0;
+        text-align: left;
+    }
+    
+    h5 {
+        font-size: 32px;
+        color: black;
+        margin: 0;
+        padding: 0;
+    }    
+
+    .column {width: 100%;}
+
+}
+
+
+/* Responsiveness 768px */
+
+@media screen and (max-width: 768px) {
+    body {font-size: 18px;
+    line-height: 28px;}
+
+    header {
+        display: flex;
+        height: auto;
+        width: 100%;}
+
+    h1 {
+        font-size: 32px;
+        height: auto;
+        width: 100%;
+        margin-left: 15px;
+        padding-left: 0;
+        color: #4aaaa5;
+        background-color: white;
+        text-align: left;
+
+    }
+
+    h2 {
+        display: block;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    h3 {
+        display: block;
+    }
+    
+    nav {
+        display: inline-flex;
+        float: left;   
+        margin: 0;
+        
+    }
+
+    nav ul {
+        text-align: center;
+    }
+
+    nav li {
+        margin: 5px;
+        font-size: 18px;
+        text-align: center; 
+        padding-bottom: 0;
+        margin-bottom: 0;
+        padding-top: 15px;
+        margin-top: 0;
+        margin-left: 0;      
+    }
+
+
+    #image {
+        width: 250px;
+        height: 250px;
+    }
+
+    #social {
+        display: inline-flex;
+        text-align: unset;
+        padding: 0;
+        margin-bottom: 10px;
+        float: right;
+    }
+
+    #button {
+        width: 115px;
+        height: 21px;
+    }
+
+    #icons {
+        padding-left: 0;
+        padding-right: 50px;
+    }
+    
+
+    table, tr, th {
+        display: grid;
+        font-size: 18px;
+        margin: 0;
+        padding: 0;
+        text-align: left;
+    }
+    
+    h5 {
+        font-size: 32px;
+        color: black;
+        margin: 0;
+        padding: 0;
+    }    
+
+    .column {width: 100%;}
+
+}
+
+/* Responsiveness 980px */
+
+@media screen and (max-width: 980px) {
+    body {font-size: 18px;
+    line-height: 28px;}
+
+    header {
+        display: flex;
+        height: auto;
+        width: 100%;}
+
+    h1 {
+        font-size: 32px;
+        height: auto;
+        width: 100%;
+        margin-left: 15px;
+        padding-left: 0;
+        color: #4aaaa5;
+        background-color: white;
+        text-align: left;
+
+    }
+
+    h2 {
+        display: block;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    h3 {
+        display: block;
+    }
+    
+    nav {
+        display: inline-flex;
+        float: left;   
+        margin: 0;
+        
+    }
+
+    nav ul {
+        text-align: center;
+    }
+
+    nav li {
+        margin: 5px;
+        font-size: 18px;
+        text-align: center; 
+        padding-bottom: 0;
+        margin-bottom: 0;
+        padding-top: 15px;
+        margin-top: 0;
+        margin-left: 0;      
+    }
+
+
+    #image {
+        width: 250px;
+        height: 250px;
+    }
+
+    #social {
+        display: inline-flex;
+        text-align: unset;
+        padding: 0;
+        margin-bottom: 10px;
+        float: right;
+    }
+
+    #button {
+        width: 115px;
+        height: 21px;
+    }
+
+    #icons {
+        padding-left: 0;
+        padding-right: 50px;
+    }
+    
+
+    table, tr, th {
+        display: grid;
+        font-size: 18px;
+        margin: 0;
+        padding: 0;
+        text-align: left;
+    }
+    
+    h5 {
+        font-size: 32px;
+        color: black;
+        margin: 0;
+        padding: 0;
+    }    
+
+    .column {width: 100%;}
+
+}

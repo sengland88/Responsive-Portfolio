@@ -1,0 +1,12 @@
+/* This document contain effects for the page. */
+
+a:visited { color: maroon; }
+a:hover { color: teal; }
+a {
+    text-decoration: none; 
+}
+
+input:focus {
+    background: lightgrey; 
+}
+

@@ -1,0 +1,47 @@
+/* This document contains ccc.class */
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+.container {
+    width: 960px;
+    margin: 0 auto; 
+    padding: 0 0 0 -10px; 
+}
+
+.column {
+    width: 960px; 
+    padding: 0 auto; 
+    margin: 0 auto;
+    overflow: visible;
+}
+
+.main {
+    background: #ffffff;
+    padding: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px; 
+    overflow: auto; 
+    border-style: solid;
+    border-width: 4px;
+    border-color: #dddddd;
+}
+
+.hr {
+    border-top: 1px solid #4aaaa5;
+}
+
+.personality {
+    background: #ffffff;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px; 
+    border-style: solid;
+    border-width: 4px;
+    border-color: #dddddd;
+    overflow: auto;
+}
+
