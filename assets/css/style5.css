@@ -6,12 +6,14 @@
     
         .container {
             background-color: teal;
+            width: 980px; 
         }
         
         header {
             display: flex;
             height: auto;
-            width: 100%;
+            width: 980px;
+            background: teal;
         }
     
         #social_icons {
@@ -22,12 +24,10 @@
     
         h1 {
             font-size: 42px;
-            display: block;
             height: auto;
-            width: 100%;
+            width: 90%;
             margin-left: 15px;
             padding-left:auto;
-            padding-right: auto;
             padding-bottom: 20px;
             color: white;
             text-align: left;
@@ -137,7 +137,7 @@
             font-size: 48px;
             display: block;
             height: auto;
-            width: 100%;
+            width: 90%;
             margin-left: 15px;
             padding-left:auto;
             padding-right: auto;
@@ -258,7 +258,7 @@
         font-size: 52px;
         display: block;
         height: auto;
-        width: 100%;
+        width: 90%;
         margin-left: 15px;
         padding-left:auto;
         padding-right: auto;
